@@ -6,7 +6,7 @@ rm(list = ls())
 getwd()
 
 #Set working directory to kaggle - titanic folder
-setwd("/Users/nitinmathew/Documents/Kaggle/Titanic")
+setwd("")
 
 #Load relevant libraries
 install.packages('rattle')
